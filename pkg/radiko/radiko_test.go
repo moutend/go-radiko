@@ -6,6 +6,7 @@ import (
 	"regexp"
 	"testing"
 
+	"github.com/moutend/go-radiko/internal/testutil"
 	"github.com/stretchr/testify/require"
 )
 
@@ -28,10 +29,7 @@ func TestGetStations(t *testing.T) {
 func TestLoginWithWebForm(t *testing.T) {
 	t.Parallel()
 
-	s := &Session{
-		username: os.Getenv("RADIKO_USERNAME"),
-		password: os.Getenv("RADIKO_PASSWORD"),
-	}
+	s := NewSession(os.Getenv("RADIKO_USERNAME"), os.Getenv("RADIKO_PASSWORD"))
 
 	if s.username == "" || s.password == "" {
 		t.Logf("Skip this test")
@@ -39,7 +37,9 @@ func TestLoginWithWebForm(t *testing.T) {
 		return
 	}
 
-	s.SetLogger(log.New(os.Stdout, "test: ", 0))
+	if true || testutil.IsVerbose() {
+		s.SetLogger(log.New(os.Stdout, "test: ", 0))
+	}
 
 	require.NoError(t, s.loginWithWebForm())
 }
