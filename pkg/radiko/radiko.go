@@ -126,10 +126,10 @@ func (s *Session) Login() error {
 
 	s.debug.Println("continue as premium member")
 
-	if err := s.loginWithJSONAPI(); err != nil {
+	if err := s.loginWithWebForm(); err != nil {
 		s.debug.Println("try another login method because the first login method failed")
 
-		if err := s.loginWithWebForm(); err != nil {
+		if err := s.loginWithJSONAPI(); err != nil {
 			return err
 		}
 	}
@@ -214,12 +214,6 @@ func (s *Session) loginWithWebForm() error {
 	values.Add("mail", s.username)
 	values.Add("pass", s.password)
 
-	jar, err := cookiejar.New(nil)
-
-	if err != nil {
-		return err
-	}
-
 	req, err := http.NewRequest(
 		http.MethodPost,
 		`https://radiko.jp/ap/member/login/login`,
@@ -230,7 +224,13 @@ func (s *Session) loginWithWebForm() error {
 		return err
 	}
 
-	res, err := (&http.Client{Jar: jar}).Do(req)
+	req.Header.Set("Content-Type", `application/x-www-form-urlencoded`)
+
+	res, err := (&http.Client{
+		CheckRedirect: func(req *http.Request, via []*http.Request) error {
+			return http.ErrUseLastResponse
+		},
+	}).Do(req)
 
 	if err != nil {
 		return err
@@ -240,7 +240,7 @@ func (s *Session) loginWithWebForm() error {
 
 	s.debug.Println("login status:", res.Status)
 
-	if res.StatusCode != http.StatusOK {
+	if res.StatusCode != http.StatusFound {
 		return fmt.Errorf("radiko: failed to login")
 	}
 
