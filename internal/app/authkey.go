@@ -11,6 +11,7 @@ import (
 var authkeyCommand = &cobra.Command{
 	Use:     "authkey",
 	Aliases: []string{"a"},
+	Short:   "print auth key",
 	RunE:    authkeyCommandRunE,
 }
 

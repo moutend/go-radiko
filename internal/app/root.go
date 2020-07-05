@@ -10,6 +10,7 @@ import (
 
 var RootCommand = &cobra.Command{
 	Use:               "radiko",
+	Short:             "radiko - command line radiko.jp client",
 	PersistentPreRunE: rootPersistentPreRunE,
 }
 

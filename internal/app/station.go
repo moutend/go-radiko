@@ -8,6 +8,7 @@ import (
 var stationCommand = &cobra.Command{
 	Use:     "station",
 	Aliases: []string{"s"},
+	Short:   "list all available stations",
 	RunE:    stationCommandRunE,
 }
 
