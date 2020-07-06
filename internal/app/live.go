@@ -7,6 +7,7 @@ import (
 	"log"
 	"math/rand"
 	"os/exec"
+	"strings"
 
 	"github.com/moutend/go-radiko/pkg/radiko"
 	"github.com/spf13/cobra"
@@ -37,7 +38,26 @@ func liveCommandRunE(cmd *cobra.Command, args []string) error {
 		return err
 	}
 
-	station := args[0]
+	stations, err := radiko.GetStations()
+
+	if err != nil {
+		return err
+	}
+
+	station := strings.ToUpper(args[0])
+	found := false
+
+	for i, _ := range stations {
+		if stations[i].Identifier == station {
+			found = true
+
+			break
+		}
+	}
+	if !found {
+		return fmt.Errorf("can't find radio station %q", station)
+	}
+
 	uuid := hex.EncodeToString(p)
 	username := viper.GetString("RADIKO_USERNAME")
 	password := viper.GetString("RADIKO_PASSWORD")
