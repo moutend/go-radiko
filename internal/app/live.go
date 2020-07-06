@@ -25,6 +25,12 @@ func liveCommandRunE(cmd *cobra.Command, args []string) error {
 		return nil
 	}
 
+	playbackVolume, _ := cmd.Flags().GetString("volume")
+
+	if playbackVolume == "" {
+		playbackVolume = "100"
+	}
+
 	p := make([]byte, 16, 16)
 
 	if _, err := rand.Read(p); err != nil {
@@ -50,7 +56,7 @@ func liveCommandRunE(cmd *cobra.Command, args []string) error {
 		return err
 	}
 
-	ffplay := exec.CommandContext(cmd.Context(), `ffplay`, `-volume`, `15`, `-i`, `-`)
+	ffplay := exec.CommandContext(cmd.Context(), `ffplay`, `-volume`, playbackVolume, `-i`, `-`)
 	ffmpeg := exec.CommandContext(
 		cmd.Context(),
 		`ffmpeg`,
@@ -79,4 +85,5 @@ func liveCommandRunE(cmd *cobra.Command, args []string) error {
 
 func init() {
 	RootCommand.AddCommand(liveCommand)
+	liveCommand.PersistentFlags().StringP("volume", "v", "", "path to configuration file")
 }
