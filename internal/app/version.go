@@ -9,7 +9,7 @@ var versionCommand = &cobra.Command{
 	Use:     "version",
 	Aliases: []string{"v"},
 	Short:   "print version",
-	RunE:    recCommandRunE,
+	RunE:    versionCommandRunE,
 }
 
 func versionCommandRunE(cmd *cobra.Command, args []string) error {
