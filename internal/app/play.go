@@ -14,14 +14,14 @@ import (
 	"github.com/spf13/viper"
 )
 
-var liveCommand = &cobra.Command{
-	Use:     "live",
+var playCommand = &cobra.Command{
+	Use:     "play",
 	Aliases: []string{"l"},
-	Short:   "play live stream",
-	RunE:    liveCommandRunE,
+	Short:   "play play stream",
+	RunE:    playCommandRunE,
 }
 
-func liveCommandRunE(cmd *cobra.Command, args []string) error {
+func playCommandRunE(cmd *cobra.Command, args []string) error {
 	if len(args) < 1 {
 		return nil
 	}
@@ -91,7 +91,7 @@ func liveCommandRunE(cmd *cobra.Command, args []string) error {
 	ffmpeg.Stdout = w
 	ffplay.Stdin = r
 
-	cmd.Println("Playing live stream (Ctrl-C to quit)")
+	cmd.Println("Playing play stream (Ctrl-C to quit)")
 
 	ffmpeg.Start()
 	ffplay.Start()
@@ -104,6 +104,7 @@ func liveCommandRunE(cmd *cobra.Command, args []string) error {
 }
 
 func init() {
-	RootCommand.AddCommand(liveCommand)
-	liveCommand.PersistentFlags().StringP("volume", "v", "", "path to configuration file")
+	RootCommand.AddCommand(playCommand)
+
+	playCommand.PersistentFlags().StringP("volume", "v", "", "playback volume (min = 0 / max = 100)")
 }
