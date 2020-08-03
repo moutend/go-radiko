@@ -16,7 +16,7 @@ import (
 
 var playCommand = &cobra.Command{
 	Use:     "play",
-	Aliases: []string{"l"},
+	Aliases: []string{"p"},
 	Short:   "play live stream",
 	RunE:    playCommandRunE,
 }
