@@ -1,9 +1,12 @@
 package radiko
 
-const (
-	// Version is a version of this package.
-	Version = "v0.3.4"
+import "runtime/debug"
 
-	// Commit is a commit hash of this package.
-	Commit = "latest"
-)
+// Version returns a version of this package.
+func Version() string {
+	if info, ok := debug.ReadBuildInfo(); ok {
+		return info.Main.Version
+	} else {
+		return "undefined"
+	}
+}

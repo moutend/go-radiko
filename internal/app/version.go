@@ -13,7 +13,7 @@ var versionCommand = &cobra.Command{
 }
 
 func versionCommandRunE(cmd *cobra.Command, args []string) error {
-	cmd.Printf("%s-%s\n", radiko.Version, radiko.Commit)
+	cmd.Println(radiko.Version())
 
 	return nil
 }
