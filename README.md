@@ -5,48 +5,44 @@ The command line tool for playing and recording the radiko.jp live stream. Also 
 
 ## Warning
 
-Illegal use of this tool, such as capturing the live stream and uploading it on the public network are not considered personal use. For more detail, refer to the link below.
-
-- [AGENCY FOR CULTURAL AFFAIRS](https://www.bunka.go.jp/english/index.html)
+Illegal use of this tool, such as capturing the live stream and uploading it on the public network are not considered personal use.
 
 ## Installation
 
-Download and install the latest `ggmpeg` and `go`.
+First, download and install the latest `ggmpeg` and `go`.
 
 - [Download FFmpeg](https://ffmpeg.org/download.html)
 - [Downloads - The Go Programming Language](https://golang.org/dl/)
 
-Then install `radiko`.
+Open Terminal app, and then run the floowing command:
 
 ```console
-go get -u github.com/moutend/go-radiko/cmd/radiko
+go install github.com/moutend/go-radiko/cmd/radiko@latest
 ```
 
 ## Usage
 
-### List stations
+### List all radio stations
 
-To print the radio station name and its identifier, use `station` command.
+Use `station` sub command to print all radio stations.
 
 ```console
 radiko station
 ```
 
-### Play / Record
-
-Note that the radiko.jp limits the available location for a normal member. If you want to listen TOKYO FM from another location, e.g. Osaka, you need charge and become a paied member.
+### Play Live Stream
 
 #### As a normal member
 
-To listen the Tokyo FM, its identifier is `FMT`, run the following command.
+To listen the Tokyo FM (its identifier is `FMT`), run the following command.
 
 ```console
 radiko play FMT
 ```
 
-If you are in Tokyo or near location, you can listen the live stream. If not, the playback will not start.
+If you are in Tokyo or near location, you can listen the live stream. If not, the playback will never start.
 
-#### As a paied member
+#### As a premium member
 
 You need set the environment variable or create configuration file.
 
