@@ -1,6 +1,6 @@
 module github.com/moutend/go-radiko
 
-go 1.18
+go 1.20
 
 require (
 	github.com/spf13/cobra v1.1.3
