@@ -4,13 +4,13 @@ import (
 	"bytes"
 	"encoding/base64"
 	"encoding/json"
+	"encoding/xml"
 	"fmt"
 	"io/ioutil"
 	"log"
 	"net/http"
 	"net/http/cookiejar"
 	"net/url"
-	"regexp"
 	"strconv"
 	"strings"
 	"time"
@@ -51,45 +51,49 @@ func GetPartialKey() (string, error) {
 	return partialKey, nil
 }
 
-// Station represents radio station information.
+type Region struct {
+	Stations []Stations `xml:"stations"`
+}
+
+type Stations struct {
+	AsciiName  string    `xml:"ascii_name,attr"`
+	RegionID   string    `xml:"region_id,attr"`
+	RegionName string    `xml:"region_name,attr"`
+	Station    []Station `xml:"station"`
+}
+
 type Station struct {
-	Identifier string
-	Name       string
+	ID        string `xml:"id"`
+	Name      string `xml:"name"`
+	AsciiName string `xml:"ascii_name"`
+	Ruby      string `xml:"ruby"`
+	Areafree  int    `xml:"areafree"`
+	Timefree  int    `xml:"timefree"`
 }
 
 // GetStations returns all available radio stations.
 func GetStations() ([]Station, error) {
-	res, err := http.Get(`http://radiko.jp/index/`)
+	const endpoint = `https://radiko.jp/v3/station/region/full.xml`
+
+	res, err := http.Get(endpoint)
 
 	if err != nil {
-		return nil, err
+		return nil, fmt.Errorf("radiko: failed to fetch full.xml: %w", err)
 	}
 
 	defer res.Body.Close()
 
-	body, err := ioutil.ReadAll(res.Body)
+	var region Region
 
-	if err != nil {
-		return nil, err
+	if err := xml.NewDecoder(res.Body).Decode(&region); err != nil {
+		return nil, fmt.Errorf("radiko: failed to parse full.xml: %w", err)
 	}
 
-	re := regexp.MustCompile("<a href=\"/index/.+/\">.+</a>")
+	var stations []Station
 
-	matches := re.FindAllString(string(body), -1)
-	stations := make([]Station, len(matches))
-
-	for n, match := range matches {
-		{
-			m := strings.TrimPrefix(match, "<a href=\"/index/")
-			i := strings.Index(m, "/")
-
-			stations[n].Identifier = m[:i]
-		}
-		{
-			i := strings.Index(match, ">")
-			j := strings.Index(match[i:], "<")
-
-			stations[n].Name = match[i+1 : i+j]
+	for i := range region.Stations {
+		for j := range region.Stations[i].Station {
+			stations = append(stations, region.Stations[i].Station[j])
 		}
 	}
 

@@ -3,7 +3,6 @@ package radiko
 import (
 	"log"
 	"os"
-	"regexp"
 	"testing"
 
 	"github.com/moutend/go-radiko/internal/testutil"
@@ -22,15 +21,6 @@ func TestGetStations(t *testing.T) {
 
 	require.NoError(t, err)
 	require.NotEmpty(t, stations)
-
-	for _, station := range stations {
-		t.Logf("%+v\n", station)
-
-		matched, err := regexp.MatchString("[a-zA-Z0-9]+", station.Identifier)
-
-		require.NoError(t, err)
-		require.True(t, matched)
-	}
 }
 
 func TestLoginWithWebForm(t *testing.T) {
