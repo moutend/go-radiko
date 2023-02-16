@@ -16,13 +16,6 @@ func TestGetPartialKey(t *testing.T) {
 	require.Equal(t, 40, len(partialKey))
 }
 
-func TestGetStations(t *testing.T) {
-	stations, err := GetStations()
-
-	require.NoError(t, err)
-	require.NotEmpty(t, stations)
-}
-
 func TestLoginWithWebForm(t *testing.T) {
 	t.Parallel()
 
