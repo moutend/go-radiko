@@ -18,12 +18,12 @@ type Stations struct {
 }
 
 type Station struct {
-	ID        string `xml:"id"`
-	Name      string `xml:"name"`
-	AsciiName string `xml:"ascii_name"`
-	Ruby      string `xml:"ruby"`
-	Areafree  int    `xml:"areafree"`
-	Timefree  int    `xml:"timefree"`
+	ID        string `json:"id" xml:"id"`
+	Name      string `json:"name" xml:"name"`
+	AsciiName string `json:"ascii_name" xml:"ascii_name"`
+	Ruby      string `json:"ruby" xml:"ruby"`
+	Areafree  int    `json:"areafree" xml:"areafree"`
+	Timefree  int    `json:"timefree" xml:"timefree"`
 }
 
 type StationList []Station
