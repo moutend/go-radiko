@@ -16,9 +16,11 @@ import (
 	"time"
 )
 
-// GetAuthKey returns auth key.
-func GetAuthKey() (string, error) {
-	res, err := http.Get(fmt.Sprintf("http://radiko.jp/apps/js/playerCommon.js?_=%d", time.Now().Unix()))
+// GetPartialKey returns a partial key.
+func GetPartialKey() (string, error) {
+	const endpoint = `https://radiko.jp/apps/js/playerCommon.js`
+
+	res, err := http.Get(endpoint)
 
 	if err != nil {
 		return "", err
@@ -32,21 +34,21 @@ func GetAuthKey() (string, error) {
 		return "", err
 	}
 	if len(body) == 0 {
-		return "", fmt.Errorf("radiko: body is empty")
+		return "", fmt.Errorf("radiko: GetPartialKey: body is empty")
 	}
 
 	tokens := strings.Split(string(body), " ")
-	authKey := ""
+	partialKey := ""
 
 	for i, token := range tokens {
 		if strings.HasPrefix(token, "RadikoJSPlayer(") {
-			authKey = tokens[i+2]
-			authKey = strings.TrimPrefix(authKey, "'")
-			authKey = strings.TrimSuffix(authKey, "',")
+			partialKey = tokens[i+2]
+			partialKey = strings.TrimPrefix(partialKey, "'")
+			partialKey = strings.TrimSuffix(partialKey, "',")
 		}
 	}
 
-	return authKey, nil
+	return partialKey, nil
 }
 
 // Station represents radio station information.
@@ -136,7 +138,7 @@ func (s *Session) Login() error {
 
 GET_AUTH_KEY:
 
-	authKey, err := GetAuthKey()
+	authKey, err := GetPartialKey()
 
 	s.debug.Println("auth key:", authKey)
 

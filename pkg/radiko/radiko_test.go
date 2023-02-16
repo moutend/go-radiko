@@ -10,6 +10,13 @@ import (
 	"github.com/stretchr/testify/require"
 )
 
+func TestGetPartialKey(t *testing.T) {
+	partialKey, err := GetPartialKey()
+
+	require.NoError(t, err)
+	require.Equal(t, 40, len(partialKey))
+}
+
 func TestGetStations(t *testing.T) {
 	stations, err := GetStations()
 
