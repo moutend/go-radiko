@@ -54,18 +54,14 @@ func recCommandRunE(cmd *cobra.Command, args []string) error {
 		return err
 	}
 
-	station := strings.ToUpper(args[0])
-	found := false
+	id := strings.ToUpper(args[0])
 
-	for i, _ := range stations {
-		if stations[i].Identifier == station {
-			found = true
+	matched := stations.Match(func(s radiko.Station) bool {
+		return strings.ToUpper(s.ID) == id
+	})
 
-			break
-		}
-	}
-	if !found {
-		return fmt.Errorf("can't find radio station %q", station)
+	if !matched {
+		return fmt.Errorf("cannot find radio station: id=%q", id)
 	}
 
 	username := viper.GetString("RADIKO_USERNAME")
@@ -92,7 +88,7 @@ func recCommandRunE(cmd *cobra.Command, args []string) error {
 		`-headers`, `Referer: http://radiko.jp/`,
 		`-headers`, `Pragma: no-cache`,
 		`-headers`, fmt.Sprintf("X-Radiko-AuthToken: %s", session.AuthToken),
-		`-i`, fmt.Sprintf(`https://radiko.jp/v2/api/ts/playlist.m3u8?station_id=%s&l=15&ft=%s&to=%s`, station, date.Format(`20060102150405`), date.Add(length).Format(`20060102150405`)),
+		`-i`, fmt.Sprintf(`https://radiko.jp/v2/api/ts/playlist.m3u8?station_id=%s&l=15&ft=%s&to=%s`, id, date.Format(`20060102150405`), date.Add(length).Format(`20060102150405`)),
 		`-acodec`, `copy`,
 		`-vn`,
 		`-bsf:a`, `aac_adtstoasc`,

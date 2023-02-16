@@ -1,6 +1,8 @@
 package app
 
 import (
+	"encoding/json"
+
 	"github.com/moutend/go-radiko/pkg/radiko"
 	"github.com/spf13/cobra"
 )
@@ -18,9 +20,14 @@ func stationCommandRunE(cmd *cobra.Command, args []string) error {
 	if err != nil {
 		return err
 	}
-	for _, station := range stations {
-		cmd.Printf("%s\t%s\n", station.Identifier, station.Name)
+
+	data, err := json.MarshalIndent(stations, "", "  ")
+
+	if err != nil {
+		return err
 	}
+
+	cmd.Printf("%s\n", data)
 
 	return nil
 }
