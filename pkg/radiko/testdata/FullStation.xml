@@ -1,0 +1,2128 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<region>
+  <stations ascii_name="HOKKAIDO TOHOKU" region_id="hokkaido-tohoku" region_name="北海道・東北">
+    <station><id>HBC</id>
+    <name>ＨＢＣラジオ</name>
+    <ascii_name>HBC RADIO</ascii_name>
+    <ruby>えいちびーしーらじお</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/HBC/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/HBC/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/HBC/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/HBC/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/HBC/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/HBC/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/HBC/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/HBC/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/HBC/20160908091323.png</banner>
+    <area_id>JP1</area_id>
+    <href>https://www.hbc.co.jp</href>
+    </station>
+    <station><id>STV</id>
+    <name>ＳＴＶラジオ</name>
+    <ascii_name>STV RADIO</ascii_name>
+    <ruby>えすてぃーびーらじお</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/STV/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/STV/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/STV/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/STV/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/STV/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/STV/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/STV/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/STV/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/STV/20220421154239.jpg</banner>
+    <area_id>JP1</area_id>
+    <href>https://www.stv.jp</href>
+    </station>
+    <station><id>AIR-G</id>
+    <name>AIR-G&apos;（FM北海道）</name>
+    <ascii_name>AIR-G&apos;</ascii_name>
+    <ruby>えあーじーえふえむほっかいどう</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/AIR-G/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/AIR-G/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/AIR-G/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/AIR-G/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/AIR-G/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/AIR-G/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/AIR-G/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/AIR-G/lrtrim/688x160.png</logo>
+    <tf_max_delay>90</tf_max_delay>
+    <banner>http://example.com/res/banner/AIR-G/20200828145049.png</banner>
+    <area_id>JP1</area_id>
+    <href>https://www.air-g.co.jp/</href>
+    </station>
+    <station><id>NORTHWAVE</id>
+    <name>FM NORTH WAVE</name>
+    <ascii_name>FM NORTH WAVE</ascii_name>
+    <ruby>えふえむのーすうぇーぶ</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/NORTHWAVE/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/NORTHWAVE/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/NORTHWAVE/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/NORTHWAVE/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/NORTHWAVE/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/NORTHWAVE/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/NORTHWAVE/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/NORTHWAVE/lrtrim/688x160.png</logo>
+    <tf_max_delay>90</tf_max_delay>
+    <banner>http://example.com/res/banner/NORTHWAVE/20150731161543.png</banner>
+    <area_id>JP1</area_id>
+    <href>https://www.fmnorth.co.jp/</href>
+    </station>
+    <station><id>RAB</id>
+    <name>ＲＡＢ青森放送</name>
+    <ascii_name>RAB</ascii_name>
+    <ruby>あーるえーびーあおもりほうそう</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/RAB/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/RAB/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/RAB/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/RAB/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/RAB/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/RAB/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/RAB/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/RAB/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/RAB/20140916175044.png</banner>
+    <area_id>JP2</area_id>
+    <href>https://www.rab.co.jp/</href>
+    </station>
+    <station><id>AFB</id>
+    <name>エフエム青森</name>
+    <ascii_name>AFB</ascii_name>
+    <ruby>えふえむあおもり</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/AFB/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/AFB/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/AFB/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/AFB/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/AFB/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/AFB/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/AFB/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/AFB/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/AFB/20170313163943.png</banner>
+    <area_id>JP2</area_id>
+    <href>https://www.afb.co.jp/</href>
+    </station>
+    <station><id>IBC</id>
+    <name>IBCラジオ</name>
+    <ascii_name>IBC RADIO</ascii_name>
+    <ruby>あいびーしーらじお</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/IBC/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/IBC/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/IBC/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/IBC/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/IBC/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/IBC/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/IBC/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/IBC/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/IBC/20180405204944.png</banner>
+    <area_id>JP3</area_id>
+    <href>https://www.ibc.co.jp/radio/</href>
+    </station>
+    <station><id>FMI</id>
+    <name>エフエム岩手</name>
+    <ascii_name>FMI</ascii_name>
+    <ruby>えふえむいわて</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/FMI/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/FMI/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/FMI/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/FMI/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/FMI/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/FMI/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/FMI/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/FMI/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/FMI/20160928162653.png</banner>
+    <area_id>JP3</area_id>
+    <href>http://www.fmii.co.jp/</href>
+    </station>
+    <station><id>TBC</id>
+    <name>TBCラジオ</name>
+    <ascii_name>TBC RADIO</ascii_name>
+    <ruby>てぃーびーしーらじお</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/TBC/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/TBC/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/TBC/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/TBC/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/TBC/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/TBC/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/TBC/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/TBC/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/TBC/20210121115531.jpg</banner>
+    <area_id>JP4</area_id>
+    <href>http://www.tbc-sendai.co.jp/02radio/</href>
+    </station>
+    <station><id>DATEFM</id>
+    <name>Date fm エフエム仙台</name>
+    <ascii_name>DATE FM</ascii_name>
+    <ruby>でーとえふえむえふえむせんだい</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/DATEFM/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/DATEFM/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/DATEFM/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/DATEFM/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/DATEFM/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/DATEFM/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/DATEFM/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/DATEFM/lrtrim/688x160.png</logo>
+    <tf_max_delay>90</tf_max_delay>
+    <banner>http://example.com/res/banner/DATEFM/20200423150841.jpg</banner>
+    <area_id>JP4</area_id>
+    <href>http://www.datefm.co.jp/</href>
+    </station>
+    <station><id>ABS</id>
+    <name>ＡＢＳ秋田放送</name>
+    <ascii_name>ABS</ascii_name>
+    <ruby>えーびーえすあきたほうそう</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/ABS/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/ABS/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/ABS/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/ABS/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/ABS/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/ABS/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/ABS/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/ABS/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/ABS/20170523122815.png</banner>
+    <area_id>JP5</area_id>
+    <href>https://www.akita-abs.co.jp/</href>
+    </station>
+    <station><id>AFM</id>
+    <name>エフエム秋田</name>
+    <ascii_name>FM AKITA</ascii_name>
+    <ruby>えふえむあきた</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/AFM/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/AFM/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/AFM/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/AFM/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/AFM/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/AFM/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/AFM/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/AFM/lrtrim/688x160.png</logo>
+    <tf_max_delay>105</tf_max_delay>
+    <banner>http://example.com/res/banner/AFM/banner.png</banner>
+    <area_id>JP5</area_id>
+    <href>http://www.fm-akita.co.jp/</href>
+    </station>
+    <station><id>YBC</id>
+    <name>YBC山形放送</name>
+    <ascii_name>YBC</ascii_name>
+    <ruby>わいびーしーやまがたほうそう</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/YBC/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/YBC/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/YBC/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/YBC/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/YBC/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/YBC/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/YBC/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/YBC/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/YBC/20191220163403.png</banner>
+    <area_id>JP6</area_id>
+    <href>https://www.ybc.co.jp/</href>
+    </station>
+    <station><id>RFM</id>
+    <name>Rhythm Station　エフエム山形</name>
+    <ascii_name>FM YAMAGATA</ascii_name>
+    <ruby>りずむすてーしょんえふえむやまがた</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/RFM/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/RFM/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/RFM/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/RFM/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/RFM/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/RFM/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/RFM/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/RFM/lrtrim/688x160.png</logo>
+    <tf_max_delay>90</tf_max_delay>
+    <banner>http://example.com/res/banner/RFM/20200401145756.png</banner>
+    <area_id>JP6</area_id>
+    <href>http://www.rfm.co.jp/</href>
+    </station>
+    <station><id>RFC</id>
+    <name>RFCラジオ福島</name>
+    <ascii_name>RADIO FUKUSHIMA</ascii_name>
+    <ruby>あーるえふしーらじおふくしま</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/RFC/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/RFC/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/RFC/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/RFC/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/RFC/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/RFC/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/RFC/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/RFC/lrtrim/688x160.png</logo>
+    <tf_max_delay>105</tf_max_delay>
+    <banner>http://example.com/res/banner/RFC/banner.png</banner>
+    <area_id>JP7</area_id>
+    <href>http://www.rfc.jp/</href>
+    </station>
+    <station><id>FMF</id>
+    <name>ふくしまFM</name>
+    <ascii_name>fmf</ascii_name>
+    <ruby>ふくしまえふえむ</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/FMF/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/FMF/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/FMF/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/FMF/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/FMF/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/FMF/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/FMF/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/FMF/lrtrim/688x160.png</logo>
+    <tf_max_delay>105</tf_max_delay>
+    <banner>http://example.com/res/banner/FMF/20201001013302.JPEG</banner>
+    <area_id>JP7</area_id>
+    <href>http://www.fmf.co.jp/</href>
+    </station>
+    <station><id>JOIK</id>
+    <name>NHKラジオ第1（札幌）</name>
+    <ascii_name>JOIK</ascii_name>
+    <ruby>えぬえいちけーらじおだいいちさっぽろ</ruby>
+    <areafree>0</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/JOIK/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/JOIK/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/JOIK/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/JOIK/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/JOIK/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/JOIK/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/JOIK/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/JOIK/lrtrim/688x160.png</logo>
+    <tf_max_delay>60</tf_max_delay>
+    <banner>http://example.com/res/banner/JOIK/20180412101601.png</banner>
+    <area_id>JP1</area_id>
+    <href>https://www.nhk.or.jp/radio/</href>
+    </station>
+    <station><id>JOHK</id>
+    <name>NHKラジオ第1（仙台）</name>
+    <ascii_name>JOHK</ascii_name>
+    <ruby>えぬえいちけーらじおだいいちせんだい</ruby>
+    <areafree>0</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/JOHK/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/JOHK/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/JOHK/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/JOHK/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/JOHK/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/JOHK/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/JOHK/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/JOHK/lrtrim/688x160.png</logo>
+    <tf_max_delay>60</tf_max_delay>
+    <banner>http://example.com/res/banner/JOHK/20170922183913.png</banner>
+    <area_id>JP4</area_id>
+    <href>https://www.nhk.or.jp/radio/</href>
+    </station>
+  </stations>
+  <stations ascii_name="KANTO" region_id="kanto" region_name="関東">
+    <station><id>TBS</id>
+    <name>TBSラジオ</name>
+    <ascii_name>TBS RADIO</ascii_name>
+    <ruby>てぃーびーえすらじお</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/TBS/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/TBS/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/TBS/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/TBS/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/TBS/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/TBS/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/TBS/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/TBS/lrtrim/688x160.png</logo>
+    <tf_max_delay>90</tf_max_delay>
+    <banner>http://example.com/res/banner/TBS/20200331114320.jpg</banner>
+    <area_id>JP13</area_id>
+    <href>https://www.tbsradio.jp/</href>
+    </station>
+    <station><id>QRR</id>
+    <name>文化放送</name>
+    <ascii_name>JOQR BUNKA HOSO</ascii_name>
+    <ruby>ぶんかほうそう</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/QRR/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/QRR/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/QRR/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/QRR/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/QRR/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/QRR/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/QRR/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/QRR/lrtrim/688x160.png</logo>
+    <tf_max_delay>90</tf_max_delay>
+    <banner>http://example.com/res/banner/QRR/20201007125706.png</banner>
+    <area_id>JP13</area_id>
+    <href>http://www.joqr.co.jp/</href>
+    </station>
+    <station><id>LFR</id>
+    <name>ニッポン放送</name>
+    <ascii_name>JOLF NIPPON HOSO</ascii_name>
+    <ruby>にっぽんほうそう</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/LFR/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/LFR/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/LFR/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/LFR/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/LFR/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/LFR/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/LFR/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/LFR/lrtrim/688x160.png</logo>
+    <tf_max_delay>90</tf_max_delay>
+    <banner>http://example.com/res/banner/LFR/20200423102824.jpg</banner>
+    <area_id>JP13</area_id>
+    <href>http://www.1242.com/</href>
+    </station>
+    <station><id>INT</id>
+    <name>interfm</name>
+    <ascii_name>InterFM897</ascii_name>
+    <ruby>いんたーえふえむ</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/INT/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/INT/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/INT/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/INT/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/INT/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/INT/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/INT/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/INT/lrtrim/688x160.png</logo>
+    <tf_max_delay>90</tf_max_delay>
+    <banner>http://example.com/res/banner/INT/20220401035523.jpg</banner>
+    <area_id>JP13</area_id>
+    <href>https://www.interfm.co.jp/</href>
+    </station>
+    <station><id>FMT</id>
+    <name>TOKYO FM</name>
+    <ascii_name>TOKYO FM</ascii_name>
+    <ruby>とーきょーえふえむ</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/FMT/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/FMT/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/FMT/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/FMT/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/FMT/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/FMT/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/FMT/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/FMT/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/FMT/20220512162447.jpg</banner>
+    <area_id>JP13</area_id>
+    <href>https://www.tfm.co.jp/</href>
+    </station>
+    <station><id>FMJ</id>
+    <name>J-WAVE</name>
+    <ascii_name>J-WAVE</ascii_name>
+    <ruby>じぇいうぇーぶ</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/FMJ/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/FMJ/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/FMJ/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/FMJ/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/FMJ/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/FMJ/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/FMJ/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/FMJ/lrtrim/688x160.png</logo>
+    <tf_max_delay>90</tf_max_delay>
+    <banner>http://example.com/res/banner/FMJ/20150403151103.jpg</banner>
+    <area_id>JP13</area_id>
+    <href>https://www.j-wave.co.jp/</href>
+    </station>
+    <station><id>JORF</id>
+    <name>ラジオ日本</name>
+    <ascii_name>RF RADIO NIPPON</ascii_name>
+    <ruby>らじおにっぽん</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/JORF/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/JORF/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/JORF/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/JORF/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/JORF/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/JORF/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/JORF/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/JORF/lrtrim/688x160.png</logo>
+    <tf_max_delay>90</tf_max_delay>
+    <banner>http://example.com/res/banner/JORF/20210226162543.png</banner>
+    <area_id>JP13</area_id>
+    <href>http://www.jorf.co.jp/</href>
+    </station>
+    <station><id>BAYFM78</id>
+    <name>bayfm78</name>
+    <ascii_name>bayfm78</ascii_name>
+    <ruby>べいえふえむ</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/BAYFM78/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/BAYFM78/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/BAYFM78/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/BAYFM78/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/BAYFM78/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/BAYFM78/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/BAYFM78/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/BAYFM78/lrtrim/688x160.png</logo>
+    <tf_max_delay>90</tf_max_delay>
+    <banner>http://example.com/res/banner/BAYFM78/20210707123633.jpg</banner>
+    <area_id>JP12</area_id>
+    <href>http://www.bayfm.co.jp/</href>
+    </station>
+    <station><id>NACK5</id>
+    <name>NACK5</name>
+    <ascii_name>NACK5</ascii_name>
+    <ruby>なっくふぁいぶ</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/NACK5/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/NACK5/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/NACK5/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/NACK5/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/NACK5/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/NACK5/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/NACK5/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/NACK5/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/NACK5/20160929170327.jpg</banner>
+    <area_id>JP11</area_id>
+    <href>https://www.nack5.co.jp/</href>
+    </station>
+    <station><id>YFM</id>
+    <name>ＦＭヨコハマ</name>
+    <ascii_name>Fm yokohama 84.7</ascii_name>
+    <ruby>えふえむよこはま</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/YFM/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/YFM/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/YFM/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/YFM/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/YFM/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/YFM/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/YFM/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/YFM/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/YFM/20110922163525.png</banner>
+    <area_id>JP14</area_id>
+    <href>https://www.fmyokohama.co.jp/</href>
+    </station>
+    <station><id>IBS</id>
+    <name>LuckyFM 茨城放送</name>
+    <ascii_name>IBS RADIO</ascii_name>
+    <ruby>らっきーえふえむいばらきほうそう</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/IBS/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/IBS/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/IBS/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/IBS/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/IBS/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/IBS/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/IBS/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/IBS/lrtrim/688x160.png</logo>
+    <tf_max_delay>105</tf_max_delay>
+    <banner>http://example.com/res/banner/IBS/20220111154553.jpg</banner>
+    <area_id>JP8</area_id>
+    <href>https://www.ibs-radio.com/</href>
+    </station>
+    <station><id>CRT</id>
+    <name>CRT栃木放送</name>
+    <ascii_name>CRT</ascii_name>
+    <ruby>しーあーるてぃーとちぎほうそう</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/CRT/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/CRT/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/CRT/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/CRT/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/CRT/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/CRT/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/CRT/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/CRT/lrtrim/688x160.png</logo>
+    <tf_max_delay>105</tf_max_delay>
+    <banner>http://example.com/res/banner/CRT/20161012200917.png</banner>
+    <area_id>JP9</area_id>
+    <href>http://www.crt-radio.co.jp/</href>
+    </station>
+    <station><id>RADIOBERRY</id>
+    <name>RadioBerry</name>
+    <ascii_name>RadioBerry</ascii_name>
+    <ruby>らじおべりー</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/RADIOBERRY/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/RADIOBERRY/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/RADIOBERRY/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/RADIOBERRY/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/RADIOBERRY/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/RADIOBERRY/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/RADIOBERRY/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/RADIOBERRY/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/RADIOBERRY/20110922162932.png</banner>
+    <area_id>JP9</area_id>
+    <href>http://www.berry.co.jp/</href>
+    </station>
+    <station><id>FMGUNMA</id>
+    <name>FM GUNMA</name>
+    <ascii_name>FM GUNMA</ascii_name>
+    <ruby>えふえむぐんま</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/FMGUNMA/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/FMGUNMA/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/FMGUNMA/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/FMGUNMA/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/FMGUNMA/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/FMGUNMA/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/FMGUNMA/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/FMGUNMA/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/FMGUNMA/20170413110757.png</banner>
+    <area_id>JP10</area_id>
+    <href>https://www.fmgunma.com</href>
+    </station>
+    <station><id>JOAK</id>
+    <name>NHKラジオ第1（東京）</name>
+    <ascii_name>JOAK</ascii_name>
+    <ruby>えぬえいちけーらじおだいいちとうきょう</ruby>
+    <areafree>0</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/JOAK/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/JOAK/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/JOAK/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/JOAK/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/JOAK/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/JOAK/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/JOAK/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/JOAK/lrtrim/688x160.png</logo>
+    <tf_max_delay>60</tf_max_delay>
+    <banner>http://example.com/res/banner/JOAK/20170922183839.png</banner>
+    <area_id>JP13</area_id>
+    <href>https://www.nhk.or.jp/radio/</href>
+    </station>
+  </stations>
+  <stations ascii_name="HOKURIKU KOUSHINETSU" region_id="hokuriku-koushinetsu" region_name="北陸・甲信越">
+    <station><id>BSN</id>
+    <name>ＢＳＮラジオ</name>
+    <ascii_name>BSN RADIO</ascii_name>
+    <ruby>びーえすえぬらじお</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/BSN/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/BSN/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/BSN/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/BSN/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/BSN/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/BSN/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/BSN/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/BSN/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/BSN/20220428163140.jpg</banner>
+    <area_id>JP15</area_id>
+    <href>https://www.ohbsn.com/radio/</href>
+    </station>
+    <station><id>FMNIIGATA</id>
+    <name>FM NIIGATA</name>
+    <ascii_name>FMNIIGATA</ascii_name>
+    <ruby>えふえむにいがた</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/FMNIIGATA/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/FMNIIGATA/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/FMNIIGATA/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/FMNIIGATA/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/FMNIIGATA/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/FMNIIGATA/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/FMNIIGATA/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/FMNIIGATA/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/FMNIIGATA/20181016121920.jpg</banner>
+    <area_id>JP15</area_id>
+    <href>https://www.fmniigata.com/</href>
+    </station>
+    <station><id>KNB</id>
+    <name>ＫＮＢラジオ</name>
+    <ascii_name>KNB RADIO</ascii_name>
+    <ruby>けーえぬびーらじお</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/KNB/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/KNB/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/KNB/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/KNB/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/KNB/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/KNB/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/KNB/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/KNB/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/KNB/banner.png</banner>
+    <area_id>JP16</area_id>
+    <href>https://www.knb.ne.jp/radio/</href>
+    </station>
+    <station><id>FMTOYAMA</id>
+    <name>ＦＭとやま</name>
+    <ascii_name>FM TOYAMA</ascii_name>
+    <ruby>えふえむとやま</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/FMTOYAMA/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/FMTOYAMA/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/FMTOYAMA/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/FMTOYAMA/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/FMTOYAMA/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/FMTOYAMA/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/FMTOYAMA/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/FMTOYAMA/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/FMTOYAMA/20190129155355.JPG</banner>
+    <area_id>JP16</area_id>
+    <href>http://www.fmtoyama.co.jp/</href>
+    </station>
+    <station><id>MRO</id>
+    <name>MROラジオ</name>
+    <ascii_name>MRO RADIO</ascii_name>
+    <ruby>えむあーるおーらじお</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/MRO/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/MRO/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/MRO/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/MRO/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/MRO/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/MRO/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/MRO/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/MRO/lrtrim/688x160.png</logo>
+    <tf_max_delay>105</tf_max_delay>
+    <banner>http://example.com/res/banner/MRO/20160909100655.jpg</banner>
+    <area_id>JP17</area_id>
+    <href>https://www.mro.co.jp/radio/</href>
+    </station>
+    <station><id>HELLOFIVE</id>
+    <name>エフエム石川</name>
+    <ascii_name>FM ISHIKAWA</ascii_name>
+    <ruby>えふえむいしかわ</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/HELLOFIVE/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/HELLOFIVE/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/HELLOFIVE/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/HELLOFIVE/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/HELLOFIVE/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/HELLOFIVE/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/HELLOFIVE/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/HELLOFIVE/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/HELLOFIVE/20200130163346.png</banner>
+    <area_id>JP17</area_id>
+    <href>http://hellofive.jp/index.html</href>
+    </station>
+    <station><id>FBC</id>
+    <name>FBCラジオ</name>
+    <ascii_name>FBC RADIO</ascii_name>
+    <ruby>えふびーしーらじお</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/FBC/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/FBC/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/FBC/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/FBC/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/FBC/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/FBC/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/FBC/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/FBC/lrtrim/688x160.png</logo>
+    <tf_max_delay>105</tf_max_delay>
+    <banner>http://example.com/res/banner/FBC/20220314154127.jpg</banner>
+    <area_id>JP18</area_id>
+    <href>http://www2.fbc.jp/radio/</href>
+    </station>
+    <station><id>FMFUKUI</id>
+    <name>FM福井</name>
+    <ascii_name>FMFUKUI</ascii_name>
+    <ruby>えふえむふくい</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/FMFUKUI/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/FMFUKUI/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/FMFUKUI/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/FMFUKUI/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/FMFUKUI/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/FMFUKUI/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/FMFUKUI/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/FMFUKUI/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/FMFUKUI/20180416154531.png</banner>
+    <area_id>JP18</area_id>
+    <href>https://www.fmfukui.jp</href>
+    </station>
+    <station><id>YBS</id>
+    <name>ＹＢＳラジオ</name>
+    <ascii_name>YBS RADIO</ascii_name>
+    <ruby>わいびーえすらじお</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/YBS/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/YBS/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/YBS/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/YBS/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/YBS/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/YBS/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/YBS/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/YBS/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/YBS/20171005130706.png</banner>
+    <area_id>JP19</area_id>
+    <href>https://www.ybs.jp/</href>
+    </station>
+    <station><id>FM-FUJI</id>
+    <name>FM FUJI</name>
+    <ascii_name>FM-FUJI</ascii_name>
+    <ruby>えふえむふじ</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/FM-FUJI/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/FM-FUJI/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/FM-FUJI/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/FM-FUJI/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/FM-FUJI/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/FM-FUJI/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/FM-FUJI/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/FM-FUJI/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/FM-FUJI/20180328151203.jpg</banner>
+    <area_id>JP19</area_id>
+    <href>http://www.fmfuji.jp/</href>
+    </station>
+    <station><id>SBC</id>
+    <name>SBCラジオ</name>
+    <ascii_name>SBCRADIO</ascii_name>
+    <ruby>えすびーしーらじお</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/SBC/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/SBC/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/SBC/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/SBC/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/SBC/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/SBC/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/SBC/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/SBC/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/SBC/banner.png</banner>
+    <area_id>JP20</area_id>
+    <href>https://sbc21.co.jp/blogwp/radio/</href>
+    </station>
+    <station><id>FMN</id>
+    <name>ＦＭ長野</name>
+    <ascii_name>FM NAGANO</ascii_name>
+    <ruby>えふえむながの</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/FMN/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/FMN/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/FMN/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/FMN/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/FMN/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/FMN/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/FMN/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/FMN/lrtrim/688x160.png</logo>
+    <tf_max_delay>105</tf_max_delay>
+    <banner>http://example.com/res/banner/FMN/20190401130254.jpg</banner>
+    <area_id>JP20</area_id>
+    <href>http://www.fmnagano.co.jp/</href>
+    </station>
+  </stations>
+  <stations ascii_name="CHUBU" region_id="chubu" region_name="中部">
+    <station><id>CBC</id>
+    <name>CBCラジオ</name>
+    <ascii_name>CBC RADIO</ascii_name>
+    <ruby>しーびーしーらじお</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/CBC/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/CBC/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/CBC/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/CBC/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/CBC/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/CBC/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/CBC/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/CBC/lrtrim/688x160.png</logo>
+    <tf_max_delay>105</tf_max_delay>
+    <banner>http://example.com/res/banner/CBC/20220919114330.png</banner>
+    <area_id>JP23</area_id>
+    <href>https://hicbc.com/radio/</href>
+    </station>
+    <station><id>TOKAIRADIO</id>
+    <name>TOKAI RADIO</name>
+    <ascii_name>TOKAIRADIO</ascii_name>
+    <ruby>とうかいらじお</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/TOKAIRADIO/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/TOKAIRADIO/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/TOKAIRADIO/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/TOKAIRADIO/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/TOKAIRADIO/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/TOKAIRADIO/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/TOKAIRADIO/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/TOKAIRADIO/lrtrim/688x160.png</logo>
+    <tf_max_delay>105</tf_max_delay>
+    <banner>http://example.com/res/banner/TOKAIRADIO/20220926141542.png</banner>
+    <area_id>JP23</area_id>
+    <href>https://www.tokairadio.co.jp/</href>
+    </station>
+    <station><id>GBS</id>
+    <name>ぎふチャン</name>
+    <ascii_name>GifuCHAN</ascii_name>
+    <ruby>ぎふちゃん</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/GBS/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/GBS/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/GBS/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/GBS/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/GBS/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/GBS/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/GBS/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/GBS/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/GBS/20200526170847.jpg</banner>
+    <area_id>JP21</area_id>
+    <href>http://www.zf-web.com/</href>
+    </station>
+    <station><id>ZIP-FM</id>
+    <name>ZIP-FM</name>
+    <ascii_name>ZIP-FM</ascii_name>
+    <ruby>じっぷえふえむ</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/ZIP-FM/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/ZIP-FM/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/ZIP-FM/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/ZIP-FM/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/ZIP-FM/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/ZIP-FM/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/ZIP-FM/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/ZIP-FM/lrtrim/688x160.png</logo>
+    <tf_max_delay>105</tf_max_delay>
+    <banner>http://example.com/res/banner/ZIP-FM/20161011172934.png</banner>
+    <area_id>JP23</area_id>
+    <href>https://zip-fm.co.jp/</href>
+    </station>
+    <station><id>FMAICHI</id>
+    <name>FM AICHI</name>
+    <ascii_name>ATFM</ascii_name>
+    <ruby>えふえむあいち</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/FMAICHI/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/FMAICHI/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/FMAICHI/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/FMAICHI/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/FMAICHI/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/FMAICHI/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/FMAICHI/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/FMAICHI/lrtrim/688x160.png</logo>
+    <tf_max_delay>105</tf_max_delay>
+    <banner>http://example.com/res/banner/FMAICHI/20200107190742.png</banner>
+    <area_id>JP23</area_id>
+    <href>https://fma.co.jp/</href>
+    </station>
+    <station><id>FMGIFU</id>
+    <name>ＦＭ ＧＩＦＵ</name>
+    <ascii_name>FM GIFU</ascii_name>
+    <ruby>えふえむぎふ</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/FMGIFU/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/FMGIFU/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/FMGIFU/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/FMGIFU/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/FMGIFU/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/FMGIFU/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/FMGIFU/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/FMGIFU/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/FMGIFU/20160310171416.png</banner>
+    <area_id>JP21</area_id>
+    <href>http://www.fmgifu.com/</href>
+    </station>
+    <station><id>SBS</id>
+    <name>SBSラジオ</name>
+    <ascii_name>SBS RADIO</ascii_name>
+    <ruby>えすびーえすらじお</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/SBS/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/SBS/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/SBS/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/SBS/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/SBS/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/SBS/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/SBS/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/SBS/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/SBS/20161215152007.jpg</banner>
+    <area_id>JP22</area_id>
+    <href>https://www.at-s.com/sbsradio/</href>
+    </station>
+    <station><id>K-MIX</id>
+    <name>K-MIX SHIZUOKA</name>
+    <ascii_name>K-MIX</ascii_name>
+    <ruby>けーみっくすしずおか</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/K-MIX/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/K-MIX/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/K-MIX/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/K-MIX/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/K-MIX/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/K-MIX/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/K-MIX/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/K-MIX/lrtrim/688x160.png</logo>
+    <tf_max_delay>105</tf_max_delay>
+    <banner>http://example.com/res/banner/K-MIX/20210329172302.jpg</banner>
+    <area_id>JP22</area_id>
+    <href>https://www.k-mix.co.jp/</href>
+    </station>
+    <station><id>FMMIE</id>
+    <name>レディオキューブ ＦＭ三重</name>
+    <ascii_name>FM MIE</ascii_name>
+    <ruby>れでぃおきゅーぶえふえむみえ</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/FMMIE/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/FMMIE/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/FMMIE/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/FMMIE/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/FMMIE/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/FMMIE/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/FMMIE/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/FMMIE/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/FMMIE/20161103035701.jpg</banner>
+    <area_id>JP24</area_id>
+    <href>http://www.fmmie.jp/</href>
+    </station>
+    <station><id>JOCK</id>
+    <name>NHKラジオ第1（名古屋）</name>
+    <ascii_name>JOCK</ascii_name>
+    <ruby>えぬえいちけーらじおだいいちなごや</ruby>
+    <areafree>0</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/JOCK/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/JOCK/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/JOCK/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/JOCK/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/JOCK/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/JOCK/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/JOCK/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/JOCK/lrtrim/688x160.png</logo>
+    <tf_max_delay>60</tf_max_delay>
+    <banner>http://example.com/res/banner/JOCK/20180412101913.png</banner>
+    <area_id>JP23</area_id>
+    <href>https://www.nhk.or.jp/radio/</href>
+    </station>
+  </stations>
+  <stations ascii_name="KINKI" region_id="kinki" region_name="近畿">
+    <station><id>ABC</id>
+    <name>ABCラジオ</name>
+    <ascii_name>ABC RADIO</ascii_name>
+    <ruby>えーびーしーらじお</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/ABC/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/ABC/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/ABC/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/ABC/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/ABC/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/ABC/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/ABC/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/ABC/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/ABC/20211108183344.jpg</banner>
+    <area_id>JP27</area_id>
+    <href>https://abcradio.asahi.co.jp/</href>
+    </station>
+    <station><id>MBS</id>
+    <name>MBSラジオ</name>
+    <ascii_name>MBS RADIO</ascii_name>
+    <ruby>えむびーえすらじお</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/MBS/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/MBS/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/MBS/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/MBS/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/MBS/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/MBS/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/MBS/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/MBS/lrtrim/688x160.png</logo>
+    <tf_max_delay>105</tf_max_delay>
+    <banner>http://example.com/res/banner/MBS/20210419163706.png</banner>
+    <area_id>JP27</area_id>
+    <href>https://www.mbs1179.com/</href>
+    </station>
+    <station><id>OBC</id>
+    <name>OBCラジオ大阪</name>
+    <ascii_name>OBC RADIO</ascii_name>
+    <ruby>おーびーしーらじおおおさか</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/OBC/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/OBC/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/OBC/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/OBC/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/OBC/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/OBC/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/OBC/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/OBC/lrtrim/688x160.png</logo>
+    <tf_max_delay>105</tf_max_delay>
+    <banner>http://example.com/res/banner/OBC/20190117104010.jpg</banner>
+    <area_id>JP27</area_id>
+    <href>http://www.obc1314.co.jp/</href>
+    </station>
+    <station><id>CCL</id>
+    <name>FM COCOLO</name>
+    <ascii_name>FM COCOLO</ascii_name>
+    <ruby>えふえむこころ</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/CCL/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/CCL/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/CCL/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/CCL/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/CCL/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/CCL/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/CCL/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/CCL/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/CCL/20161014144826.png</banner>
+    <area_id>JP27</area_id>
+    <href>https://cocolo.jp</href>
+    </station>
+    <station><id>802</id>
+    <name>FM802</name>
+    <ascii_name>FM802</ascii_name>
+    <ruby>えふえむはちまるに</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/802/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/802/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/802/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/802/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/802/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/802/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/802/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/802/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/802/20161014144737.png</banner>
+    <area_id>JP27</area_id>
+    <href>https://funky802.com/</href>
+    </station>
+    <station><id>FMO</id>
+    <name>FM大阪</name>
+    <ascii_name>FMO</ascii_name>
+    <ruby>えふえむおおさか</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/FMO/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/FMO/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/FMO/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/FMO/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/FMO/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/FMO/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/FMO/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/FMO/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/FMO/20200528173851.png</banner>
+    <area_id>JP27</area_id>
+    <href>http://fmosaka.net/</href>
+    </station>
+    <station><id>KISSFMKOBE</id>
+    <name>Kiss FM KOBE</name>
+    <ascii_name>Kiss FM KOBE</ascii_name>
+    <ruby>きっすえふえむこうべ</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/KISSFMKOBE/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/KISSFMKOBE/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/KISSFMKOBE/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/KISSFMKOBE/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/KISSFMKOBE/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/KISSFMKOBE/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/KISSFMKOBE/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/KISSFMKOBE/lrtrim/688x160.png</logo>
+    <tf_max_delay>90</tf_max_delay>
+    <banner>http://example.com/res/banner/KISSFMKOBE/20210403105655.png</banner>
+    <area_id>JP28</area_id>
+    <href>https://www.kiss-fm.co.jp/</href>
+    </station>
+    <station><id>CRK</id>
+    <name>ラジオ関西</name>
+    <ascii_name>RADIO KANSAI</ascii_name>
+    <ruby>しーあるけーらじおかんさい</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/CRK/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/CRK/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/CRK/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/CRK/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/CRK/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/CRK/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/CRK/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/CRK/lrtrim/688x160.png</logo>
+    <tf_max_delay>90</tf_max_delay>
+    <banner>http://example.com/res/banner/CRK/20160405140655.jpg</banner>
+    <area_id>JP28</area_id>
+    <href>https://jocr.jp/</href>
+    </station>
+    <station><id>E-RADIO</id>
+    <name>e-radio FM滋賀</name>
+    <ascii_name>E-RADIO</ascii_name>
+    <ruby>いーらじおえふえむしが</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/E-RADIO/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/E-RADIO/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/E-RADIO/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/E-RADIO/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/E-RADIO/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/E-RADIO/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/E-RADIO/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/E-RADIO/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/E-RADIO/20171207140826.jpg</banner>
+    <area_id>JP25</area_id>
+    <href>https://www.e-radio.co.jp/</href>
+    </station>
+    <station><id>KBS</id>
+    <name>KBS京都ラジオ</name>
+    <ascii_name>KBS-KYOTO RADIO</ascii_name>
+    <ruby>けーびーえすきょうとらじお</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/KBS/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/KBS/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/KBS/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/KBS/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/KBS/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/KBS/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/KBS/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/KBS/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/KBS/20120228180921.png</banner>
+    <area_id>JP26</area_id>
+    <href>https://www.kbs-kyoto.co.jp/</href>
+    </station>
+    <station><id>ALPHA-STATION</id>
+    <name>α-STATION FM KYOTO</name>
+    <ascii_name>ALPHA-STATION</ascii_name>
+    <ruby>あるふぁすてーしょんえふえむきょうと</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/ALPHA-STATION/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/ALPHA-STATION/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/ALPHA-STATION/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/ALPHA-STATION/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/ALPHA-STATION/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/ALPHA-STATION/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/ALPHA-STATION/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/ALPHA-STATION/lrtrim/688x160.png</logo>
+    <tf_max_delay>105</tf_max_delay>
+    <banner>http://example.com/res/banner/ALPHA-STATION/20110929130156.png</banner>
+    <area_id>JP26</area_id>
+    <href>http://fm-kyoto.jp/</href>
+    </station>
+    <station><id>WBS</id>
+    <name>wbs和歌山放送</name>
+    <ascii_name>WBS RADIO</ascii_name>
+    <ruby>だぶりゅーびーえすわかやまほうそう</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/WBS/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/WBS/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/WBS/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/WBS/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/WBS/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/WBS/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/WBS/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/WBS/lrtrim/688x160.png</logo>
+    <tf_max_delay>90</tf_max_delay>
+    <banner>http://example.com/res/banner/WBS/20110930145435.png</banner>
+    <area_id>JP30</area_id>
+    <href>https://www.wbs.co.jp/</href>
+    </station>
+    <station><id>JOBK</id>
+    <name>NHKラジオ第1（大阪）</name>
+    <ascii_name>JOBK</ascii_name>
+    <ruby>えぬえいちけーらじおだいいちおおさか</ruby>
+    <areafree>0</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/JOBK/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/JOBK/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/JOBK/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/JOBK/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/JOBK/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/JOBK/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/JOBK/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/JOBK/lrtrim/688x160.png</logo>
+    <tf_max_delay>60</tf_max_delay>
+    <banner>http://example.com/res/banner/JOBK/20180412101432.png</banner>
+    <area_id>JP27</area_id>
+    <href>https://www.nhk.or.jp/radio/</href>
+    </station>
+  </stations>
+  <stations ascii_name="CHUGOKU SHIKOKU" region_id="chugoku-shikoku" region_name="中国・四国">
+    <station><id>BSS</id>
+    <name>BSSラジオ</name>
+    <ascii_name>BSS RADIO</ascii_name>
+    <ruby>びーえすえすらじお</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/BSS/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/BSS/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/BSS/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/BSS/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/BSS/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/BSS/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/BSS/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/BSS/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/BSS/20220606111552.jpg</banner>
+    <area_id>JP31</area_id>
+    <href>https://www.bss.jp/radio/</href>
+    </station>
+    <station><id>FM-SANIN</id>
+    <name>エフエム山陰</name>
+    <ascii_name>FMSANIN</ascii_name>
+    <ruby>えふえむさんいん</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/FM-SANIN/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/FM-SANIN/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/FM-SANIN/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/FM-SANIN/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/FM-SANIN/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/FM-SANIN/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/FM-SANIN/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/FM-SANIN/lrtrim/688x160.png</logo>
+    <tf_max_delay>90</tf_max_delay>
+    <banner>http://example.com/res/banner/FM-SANIN/20200406113750.png</banner>
+    <area_id>JP32</area_id>
+    <href>http://www.fm-sanin.co.jp/</href>
+    </station>
+    <station><id>RSK</id>
+    <name>ＲＳＫラジオ</name>
+    <ascii_name>RSK</ascii_name>
+    <ruby>あーるえすけーらじお</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/RSK/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/RSK/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/RSK/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/RSK/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/RSK/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/RSK/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/RSK/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/RSK/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/RSK/20141120134411.png</banner>
+    <area_id>JP33</area_id>
+    <href>http://www.rsk.co.jp/</href>
+    </station>
+    <station><id>FM-OKAYAMA</id>
+    <name>ＦＭ岡山</name>
+    <ascii_name>FM-OKAYAMA</ascii_name>
+    <ruby>えふえむおかやま</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/FM-OKAYAMA/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/FM-OKAYAMA/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/FM-OKAYAMA/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/FM-OKAYAMA/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/FM-OKAYAMA/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/FM-OKAYAMA/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/FM-OKAYAMA/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/FM-OKAYAMA/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/FM-OKAYAMA/20200331123058.png</banner>
+    <area_id>JP33</area_id>
+    <href>http://www.fm-okayama.co.jp/</href>
+    </station>
+    <station><id>RCC</id>
+    <name>RCCラジオ</name>
+    <ascii_name>RCC RADIO</ascii_name>
+    <ruby>あーるしーしーらじお</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/RCC/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/RCC/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/RCC/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/RCC/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/RCC/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/RCC/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/RCC/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/RCC/lrtrim/688x160.png</logo>
+    <tf_max_delay>105</tf_max_delay>
+    <banner>http://example.com/res/banner/RCC/20211221164300.jpg</banner>
+    <area_id>JP34</area_id>
+    <href>https://radio.rcc.jp/</href>
+    </station>
+    <station><id>HFM</id>
+    <name>広島FM</name>
+    <ascii_name>HIROSHIMA-FM</ascii_name>
+    <ruby>ひろしまえふえむ</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/HFM/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/HFM/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/HFM/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/HFM/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/HFM/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/HFM/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/HFM/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/HFM/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/HFM/20210415135403.png</banner>
+    <area_id>JP34</area_id>
+    <href>http://www.hiroshima-fm.co.jp/</href>
+    </station>
+    <station><id>KRY</id>
+    <name>ＫＲＹ山口放送</name>
+    <ascii_name>KRY</ascii_name>
+    <ruby>けーあーるわいやまぐちほうそう</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/KRY/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/KRY/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/KRY/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/KRY/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/KRY/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/KRY/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/KRY/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/KRY/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/KRY/20190327184458.jpg</banner>
+    <area_id>JP35</area_id>
+    <href>http://kry.co.jp/</href>
+    </station>
+    <station><id>FMY</id>
+    <name>エフエム山口</name>
+    <ascii_name>FMY</ascii_name>
+    <ruby>えふえむやまぐち</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/FMY/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/FMY/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/FMY/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/FMY/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/FMY/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/FMY/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/FMY/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/FMY/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/FMY/20180312123722.png</banner>
+    <area_id>JP35</area_id>
+    <href>http://www.fmy.co.jp/</href>
+    </station>
+    <station><id>JRT</id>
+    <name>ＪＲＴ四国放送</name>
+    <ascii_name>JRT</ascii_name>
+    <ruby>じぇいあーるてぃーしこくほうそう</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/JRT/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/JRT/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/JRT/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/JRT/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/JRT/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/JRT/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/JRT/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/JRT/lrtrim/688x160.png</logo>
+    <tf_max_delay>105</tf_max_delay>
+    <banner>http://example.com/res/banner/JRT/20150317183505.png</banner>
+    <area_id>JP36</area_id>
+    <href>http://www.jrt.co.jp/</href>
+    </station>
+    <station><id>FM807</id>
+    <name>FM徳島</name>
+    <ascii_name>FM807</ascii_name>
+    <ruby>えふえむとくしま</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/FM807/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/FM807/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/FM807/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/FM807/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/FM807/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/FM807/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/FM807/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/FM807/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/FM807/20200823021546.png</banner>
+    <area_id>JP36</area_id>
+    <href>http://www.fm807.jp/</href>
+    </station>
+    <station><id>RNC</id>
+    <name>RNC西日本放送</name>
+    <ascii_name>RNC</ascii_name>
+    <ruby>あーるえぬしーらじお</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/RNC/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/RNC/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/RNC/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/RNC/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/RNC/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/RNC/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/RNC/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/RNC/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/RNC/20170817125020.png</banner>
+    <area_id>JP37</area_id>
+    <href>http://www.rnc.co.jp/</href>
+    </station>
+    <station><id>FMKAGAWA</id>
+    <name>エフエム香川</name>
+    <ascii_name>FM KAGAWA</ascii_name>
+    <ruby>えふえむかがわ</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/FMKAGAWA/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/FMKAGAWA/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/FMKAGAWA/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/FMKAGAWA/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/FMKAGAWA/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/FMKAGAWA/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/FMKAGAWA/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/FMKAGAWA/lrtrim/688x160.png</logo>
+    <tf_max_delay>105</tf_max_delay>
+    <banner>http://example.com/res/banner/FMKAGAWA/20210102120858.png</banner>
+    <area_id>JP37</area_id>
+    <href>https://www.fmkagawa.co.jp/</href>
+    </station>
+    <station><id>RNB</id>
+    <name>RNB南海放送</name>
+    <ascii_name>RNB</ascii_name>
+    <ruby>あーるえぬびーなんかいほうそう</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/RNB/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/RNB/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/RNB/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/RNB/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/RNB/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/RNB/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/RNB/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/RNB/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/RNB/20170418144016.jpg</banner>
+    <area_id>JP38</area_id>
+    <href>https://www.rnb.co.jp/</href>
+    </station>
+    <station><id>JOEU-FM</id>
+    <name>FM愛媛</name>
+    <ascii_name>JOEU-FM</ascii_name>
+    <ruby>えふえむえひめ</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/JOEU-FM/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/JOEU-FM/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/JOEU-FM/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/JOEU-FM/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/JOEU-FM/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/JOEU-FM/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/JOEU-FM/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/JOEU-FM/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/JOEU-FM/20170327223217.png</banner>
+    <area_id>JP38</area_id>
+    <href>https://www.joeufm.co.jp/</href>
+    </station>
+    <station><id>RKC</id>
+    <name>RKC高知放送</name>
+    <ascii_name>RKC</ascii_name>
+    <ruby>あーるけーしーこうちほうそう</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/RKC/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/RKC/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/RKC/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/RKC/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/RKC/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/RKC/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/RKC/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/RKC/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/RKC/banner.png</banner>
+    <area_id>JP39</area_id>
+    <href>http://www.rkc-kochi.co.jp/</href>
+    </station>
+    <station><id>HI-SIX</id>
+    <name>エフエム高知</name>
+    <ascii_name>Hi-Six</ascii_name>
+    <ruby>えふえむこうち</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/HI-SIX/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/HI-SIX/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/HI-SIX/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/HI-SIX/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/HI-SIX/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/HI-SIX/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/HI-SIX/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/HI-SIX/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/HI-SIX/20200228150708.png</banner>
+    <area_id>JP39</area_id>
+    <href>http://www.fmkochi.com/</href>
+    </station>
+    <station><id>JOFK</id>
+    <name>NHKラジオ第1（広島）</name>
+    <ascii_name>JOFK</ascii_name>
+    <ruby>えぬえいちけーらじおだいいちひろしま</ruby>
+    <areafree>0</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/JOFK/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/JOFK/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/JOFK/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/JOFK/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/JOFK/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/JOFK/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/JOFK/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/JOFK/lrtrim/688x160.png</logo>
+    <tf_max_delay>60</tf_max_delay>
+    <banner>http://example.com/res/banner/JOFK/20170922183935.png</banner>
+    <area_id>JP34</area_id>
+    <href>https://www.nhk.or.jp/radio/</href>
+    </station>
+    <station><id>JOZK</id>
+    <name>NHKラジオ第1（松山）</name>
+    <ascii_name>JOZK</ascii_name>
+    <ruby>えぬえいちけーらじおだいいちまつやま</ruby>
+    <areafree>0</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/JOZK/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/JOZK/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/JOZK/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/JOZK/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/JOZK/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/JOZK/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/JOZK/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/JOZK/lrtrim/688x160.png</logo>
+    <tf_max_delay>60</tf_max_delay>
+    <banner>http://example.com/res/banner/JOZK/20170922183956.png</banner>
+    <area_id>JP38</area_id>
+    <href>https://www.nhk.or.jp/radio/</href>
+    </station>
+  </stations>
+  <stations ascii_name="KYUSHU" region_id="kyushu" region_name="九州・沖縄">
+    <station><id>RKB</id>
+    <name>RKBラジオ</name>
+    <ascii_name>RKB</ascii_name>
+    <ruby>あーるけーびーらじお</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/RKB/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/RKB/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/RKB/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/RKB/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/RKB/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/RKB/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/RKB/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/RKB/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/RKB/20170817143046.jpg</banner>
+    <area_id>JP40</area_id>
+    <href>https://rkbr.jp/</href>
+    </station>
+    <station><id>KBC</id>
+    <name>KBCラジオ</name>
+    <ascii_name>KBC RADIO</ascii_name>
+    <ruby>けーびーしーらじお</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/KBC/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/KBC/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/KBC/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/KBC/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/KBC/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/KBC/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/KBC/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/KBC/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/KBC/20170314142116.jpg</banner>
+    <area_id>JP40</area_id>
+    <href>https://kbc.co.jp/radio/</href>
+    </station>
+    <station><id>LOVEFM</id>
+    <name>LOVE FM</name>
+    <ascii_name>LOVE FM</ascii_name>
+    <ruby>らぶえふえむ</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/LOVEFM/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/LOVEFM/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/LOVEFM/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/LOVEFM/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/LOVEFM/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/LOVEFM/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/LOVEFM/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/LOVEFM/lrtrim/688x160.png</logo>
+    <tf_max_delay>105</tf_max_delay>
+    <banner>http://example.com/res/banner/LOVEFM/20140715154132.jpg</banner>
+    <area_id>JP40</area_id>
+    <href>https://www.lovefm.co.jp/</href>
+    </station>
+    <station><id>CROSSFM</id>
+    <name>CROSS FM</name>
+    <ascii_name>cross fm</ascii_name>
+    <ruby>くろすえふえむ</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/CROSSFM/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/CROSSFM/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/CROSSFM/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/CROSSFM/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/CROSSFM/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/CROSSFM/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/CROSSFM/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/CROSSFM/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/CROSSFM/20200806163503.jpg</banner>
+    <area_id>JP40</area_id>
+    <href>http://www.crossfm.co.jp/</href>
+    </station>
+    <station><id>FMFUKUOKA</id>
+    <name>FM FUKUOKA</name>
+    <ascii_name>FM FUKUOKA</ascii_name>
+    <ruby>えふえむふくおか</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/FMFUKUOKA/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/FMFUKUOKA/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/FMFUKUOKA/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/FMFUKUOKA/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/FMFUKUOKA/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/FMFUKUOKA/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/FMFUKUOKA/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/FMFUKUOKA/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/FMFUKUOKA/20210414154152.jpg</banner>
+    <area_id>JP40</area_id>
+    <href>https://fmfukuoka.co.jp</href>
+    </station>
+    <station><id>FMS</id>
+    <name>エフエム佐賀</name>
+    <ascii_name>FMSAGA</ascii_name>
+    <ruby>えふえむさが</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/FMS/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/FMS/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/FMS/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/FMS/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/FMS/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/FMS/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/FMS/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/FMS/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/FMS/20200408162952.png</banner>
+    <area_id>JP41</area_id>
+    <href>http://www.fmsaga.co.jp/</href>
+    </station>
+    <station><id>NBC</id>
+    <name>NBCラジオ</name>
+    <ascii_name>NBC RADIO</ascii_name>
+    <ruby>えぬびーしーらじお</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/NBC/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/NBC/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/NBC/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/NBC/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/NBC/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/NBC/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/NBC/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/NBC/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/NBC/20180409155945.jpg</banner>
+    <area_id>JP42</area_id>
+    <href>https://www.nbc-nagasaki.co.jp/radio/</href>
+    </station>
+    <station><id>FMNAGASAKI</id>
+    <name>FM長崎</name>
+    <ascii_name>FM NAGASAKI</ascii_name>
+    <ruby>えふえむながさき</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/FMNAGASAKI/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/FMNAGASAKI/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/FMNAGASAKI/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/FMNAGASAKI/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/FMNAGASAKI/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/FMNAGASAKI/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/FMNAGASAKI/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/FMNAGASAKI/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/FMNAGASAKI/20150402112420.png</banner>
+    <area_id>JP42</area_id>
+    <href>http://www.fmnagasaki.co.jp/</href>
+    </station>
+    <station><id>RKK</id>
+    <name>RKKラジオ</name>
+    <ascii_name>RKK RADIO</ascii_name>
+    <ruby>あーるけーけーらじお</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/RKK/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/RKK/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/RKK/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/RKK/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/RKK/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/RKK/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/RKK/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/RKK/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/RKK/20211026110330.jpg</banner>
+    <area_id>JP43</area_id>
+    <href>http://rkk.jp/radio/</href>
+    </station>
+    <station><id>FMK</id>
+    <name>FMKエフエム熊本</name>
+    <ascii_name>FMK</ascii_name>
+    <ruby>えふえむけーえふえむくまもと</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/FMK/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/FMK/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/FMK/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/FMK/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/FMK/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/FMK/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/FMK/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/FMK/lrtrim/688x160.png</logo>
+    <tf_max_delay>90</tf_max_delay>
+    <banner>http://example.com/res/banner/FMK/20201228121136.jpg</banner>
+    <area_id>JP43</area_id>
+    <href>https://fmk.fm/</href>
+    </station>
+    <station><id>OBS</id>
+    <name>OBSラジオ</name>
+    <ascii_name>OBS RADIO</ascii_name>
+    <ruby>おーびーえすらじお</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/OBS/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/OBS/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/OBS/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/OBS/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/OBS/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/OBS/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/OBS/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/OBS/lrtrim/688x160.png</logo>
+    <tf_max_delay>105</tf_max_delay>
+    <banner>http://example.com/res/banner/OBS/20120326111515.png</banner>
+    <area_id>JP44</area_id>
+    <href>https://1098.am/</href>
+    </station>
+    <station><id>FM_OITA</id>
+    <name>エフエム大分</name>
+    <ascii_name>FM OITA</ascii_name>
+    <ruby>えふえむおおいた</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/FM_OITA/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/FM_OITA/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/FM_OITA/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/FM_OITA/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/FM_OITA/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/FM_OITA/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/FM_OITA/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/FM_OITA/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/FM_OITA/20120326113616.png</banner>
+    <area_id>JP44</area_id>
+    <href>http://www.fmoita.co.jp</href>
+    </station>
+    <station><id>MRT</id>
+    <name>宮崎放送</name>
+    <ascii_name>MRT RADIO</ascii_name>
+    <ruby>みやざきほうそう</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/MRT/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/MRT/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/MRT/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/MRT/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/MRT/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/MRT/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/MRT/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/MRT/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/MRT/20221014112245.jpeg</banner>
+    <area_id>JP45</area_id>
+    <href>http://mrt.jp/radio/</href>
+    </station>
+    <station><id>JOYFM</id>
+    <name>エフエム宮崎</name>
+    <ascii_name>FMMIYAZAKI</ascii_name>
+    <ruby>えふえむみやざき</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/JOYFM/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/JOYFM/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/JOYFM/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/JOYFM/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/JOYFM/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/JOYFM/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/JOYFM/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/JOYFM/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/JOYFM/20200326190840.png</banner>
+    <area_id>JP45</area_id>
+    <href>http://www.joyfm.co.jp/</href>
+    </station>
+    <station><id>MBC</id>
+    <name>ＭＢＣラジオ</name>
+    <ascii_name>MBC RADIO</ascii_name>
+    <ruby>えむびーしーらじお</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/MBC/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/MBC/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/MBC/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/MBC/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/MBC/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/MBC/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/MBC/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/MBC/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/MBC/20190926143408.jpg</banner>
+    <area_id>JP46</area_id>
+    <href>https://www.mbc.co.jp/radio/</href>
+    </station>
+    <station><id>MYUFM</id>
+    <name>μＦＭ</name>
+    <ascii_name>MYUFM</ascii_name>
+    <ruby>みゅーえふえむ</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/MYUFM/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/MYUFM/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/MYUFM/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/MYUFM/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/MYUFM/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/MYUFM/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/MYUFM/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/MYUFM/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/MYUFM/20170418123313.png</banner>
+    <area_id>JP46</area_id>
+    <href>http://www.myufm.jp/myufmjp/myufm/</href>
+    </station>
+    <station><id>RBC</id>
+    <name>RBCiラジオ</name>
+    <ascii_name>RBCi RADIO</ascii_name>
+    <ruby>あーるびーしーあいらじお</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/RBC/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/RBC/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/RBC/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/RBC/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/RBC/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/RBC/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/RBC/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/RBC/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/RBC/20220526093324.jpg</banner>
+    <area_id>JP47</area_id>
+    <href>https://www.rbc.co.jp/</href>
+    </station>
+    <station><id>ROK</id>
+    <name>ラジオ沖縄</name>
+    <ascii_name>ROK</ascii_name>
+    <ruby>らじおおきなわ</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/ROK/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/ROK/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/ROK/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/ROK/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/ROK/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/ROK/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/ROK/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/ROK/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/ROK/20220826183921.png</banner>
+    <area_id>JP47</area_id>
+    <href>http://www.rokinawa.co.jp/</href>
+    </station>
+    <station><id>FM_OKINAWA</id>
+    <name>FM沖縄</name>
+    <ascii_name>FM_OKINAWA</ascii_name>
+    <ruby>えふえむおきなわ</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/FM_OKINAWA/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/FM_OKINAWA/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/FM_OKINAWA/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/FM_OKINAWA/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/FM_OKINAWA/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/FM_OKINAWA/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/FM_OKINAWA/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/FM_OKINAWA/lrtrim/688x160.png</logo>
+    <tf_max_delay>150</tf_max_delay>
+    <banner>http://example.com/res/banner/FM_OKINAWA/20170913105637.png</banner>
+    <area_id>JP47</area_id>
+    <href>https://www.fmokinawa.co.jp/</href>
+    </station>
+    <station><id>JOLK</id>
+    <name>NHKラジオ第1（福岡）</name>
+    <ascii_name>JOLK</ascii_name>
+    <ruby>えぬえいちけーらじおだいいちふくおか</ruby>
+    <areafree>0</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/JOLK/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/JOLK/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/JOLK/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/JOLK/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/JOLK/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/JOLK/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/JOLK/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/JOLK/lrtrim/688x160.png</logo>
+    <tf_max_delay>60</tf_max_delay>
+    <banner>http://example.com/res/banner/JOLK/20170922184021.png</banner>
+    <area_id>JP40</area_id>
+    <href>https://www.nhk.or.jp/radio/</href>
+    </station>
+  </stations>
+  <stations ascii_name="ZENKOKU" region_id="zenkoku" region_name="全国">
+    <station><id>RN1</id>
+    <name>ラジオNIKKEI第1</name>
+    <ascii_name>RADIONIKKEI</ascii_name>
+    <ruby>らじおにっけいだいいち</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/RN1/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/RN1/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/RN1/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/RN1/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/RN1/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/RN1/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/RN1/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/RN1/lrtrim/688x160.png</logo>
+    <tf_max_delay>90</tf_max_delay>
+    <banner>http://example.com/res/banner/RN1/20120802154152.png</banner>
+    <area_id>JP13</area_id>
+    <href>http://www.radionikkei.jp/</href>
+    </station>
+    <station><id>RN2</id>
+    <name>ラジオNIKKEI第2</name>
+    <ascii_name>RADIONIKKEI2</ascii_name>
+    <ruby>らじおにっけいだいに</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/RN2/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/RN2/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/RN2/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/RN2/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/RN2/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/RN2/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/RN2/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/RN2/lrtrim/688x160.png</logo>
+    <tf_max_delay>90</tf_max_delay>
+    <banner>http://example.com/res/banner/RN2/20190423111331.png</banner>
+    <area_id>JP13</area_id>
+    <href>http://www.radionikkei.jp/ </href>
+    </station>
+    <station><id>HOUSOU-DAIGAKU</id>
+    <name>放送大学</name>
+    <ascii_name>HOUSOU-DAIGAKU</ascii_name>
+    <ruby>ほうそうだいがく</ruby>
+    <areafree>1</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/HOUSOU-DAIGAKU/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/HOUSOU-DAIGAKU/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/HOUSOU-DAIGAKU/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/HOUSOU-DAIGAKU/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/HOUSOU-DAIGAKU/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/HOUSOU-DAIGAKU/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/HOUSOU-DAIGAKU/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/HOUSOU-DAIGAKU/lrtrim/688x160.png</logo>
+    <tf_max_delay>90</tf_max_delay>
+    <banner>http://example.com/res/banner/HOUSOU-DAIGAKU/20150805145127.png</banner>
+    <area_id>JP12</area_id>
+    <href>https://www.ouj.ac.jp/</href>
+    </station>
+    <station><id>JOAB</id>
+    <name>NHKラジオ第2</name>
+    <ascii_name>JOAB</ascii_name>
+    <ruby>えぬえいちけーらじおだいに</ruby>
+    <areafree>0</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/JOAB/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/JOAB/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/JOAB/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/JOAB/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/JOAB/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/JOAB/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/JOAB/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/JOAB/lrtrim/688x160.png</logo>
+    <tf_max_delay>60</tf_max_delay>
+    <banner>http://example.com/res/banner/JOAB/20170922184047.png</banner>
+    <area_id>JP13</area_id>
+    <href>https://www.nhk.or.jp/radio/</href>
+    </station>
+    <station><id>JOAK-FM</id>
+    <name>NHK-FM（東京）</name>
+    <ascii_name>JOAK-FM</ascii_name>
+    <ruby>えぬえいちけーえふえむとうきょう</ruby>
+    <areafree>0</areafree>
+    <timefree>1</timefree>
+    <logo width="224" height="100" align="center">https://example.com/v2/static/station/logo/JOAK-FM/224x100.png</logo>
+    <logo width="258" height="60" align="center">https://example.com/v2/static/station/logo/JOAK-FM/258x60.png</logo>
+    <logo width="448" height="200" align="center">https://example.com/v2/static/station/logo/JOAK-FM/448x200.png</logo>
+    <logo width="688" height="160" align="center">https://example.com/v2/static/station/logo/JOAK-FM/688x160.png</logo>
+    <logo width="224" height="100" align="lrtrim">https://example.com/v2/static/station/logo/JOAK-FM/lrtrim/224x100.png</logo>
+    <logo width="258" height="60" align="lrtrim">https://example.com/v2/static/station/logo/JOAK-FM/lrtrim/258x60.png</logo>
+    <logo width="448" height="200" align="lrtrim">https://example.com/v2/static/station/logo/JOAK-FM/lrtrim/448x200.png</logo>
+    <logo width="688" height="160" align="lrtrim">https://example.com/v2/static/station/logo/JOAK-FM/lrtrim/688x160.png</logo>
+    <tf_max_delay>60</tf_max_delay>
+    <banner>http://example.com/res/banner/JOAK-FM/20170922184116.png</banner>
+    <area_id>JP13</area_id>
+    <href>https://www.nhk.or.jp/radio/</href>
+    </station>
+  </stations>
+</region>

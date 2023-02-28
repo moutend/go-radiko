@@ -2,9 +2,11 @@ package app
 
 import (
 	"encoding/json"
+	"log"
 
 	"github.com/moutend/go-radiko/pkg/radiko"
 	"github.com/spf13/cobra"
+	"github.com/spf13/viper"
 )
 
 var stationCommand = &cobra.Command{
@@ -15,13 +17,19 @@ var stationCommand = &cobra.Command{
 }
 
 func stationCommandRunE(cmd *cobra.Command, args []string) error {
-	stations, err := radiko.GetStations()
+	username := viper.GetString("RADIKO_USERNAME")
+	password := viper.GetString("RADIKO_PASSWORD")
 
-	if err != nil {
+	client := radiko.New("", username, password)
+
+	if yes, _ := cmd.Flags().GetBool("debug"); yes {
+		client.SetLogger(log.New(cmd.ErrOrStderr(), "debug: ", 0))
+	}
+	if err := client.GetAllStations(cmd.Context()); err != nil {
 		return err
 	}
 
-	data, err := json.MarshalIndent(stations, "", "  ")
+	data, err := json.MarshalIndent(client.AllStations, "", "  ")
 
 	if err != nil {
 		return err

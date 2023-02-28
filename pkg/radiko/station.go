@@ -3,10 +3,10 @@ package radiko
 import (
 	"encoding/xml"
 	"fmt"
-	"net/http"
+	"io"
 )
 
-type Region struct {
+type FullStationXML struct {
 	Stations []Stations `xml:"stations"`
 }
 
@@ -26,10 +26,9 @@ type Station struct {
 	Timefree  int    `json:"timefree" xml:"timefree"`
 }
 
-type StationList []Station
+type StationSlice []Station
 
-// Match returns true when given condition.
-func (s StationList) Match(fn func(Station) bool) bool {
+func (s StationSlice) Match(fn func(Station) bool) bool {
 	for i := range s {
 		if fn(s[i]) {
 			return true
@@ -39,29 +38,18 @@ func (s StationList) Match(fn func(Station) bool) bool {
 	return false
 }
 
-// GetStations returns all available radio stations.
-func GetStations() (StationList, error) {
-	const endpoint = `https://radiko.jp/v3/station/region/full.xml`
+func ParseFullStationXML(r io.Reader) (StationSlice, error) {
+	var v FullStationXML
 
-	res, err := http.Get(endpoint)
-
-	if err != nil {
-		return nil, fmt.Errorf("radiko: failed to fetch full.xml: %w", err)
+	if err := xml.NewDecoder(r).Decode(&v); err != nil {
+		return nil, fmt.Errorf("radiko: failed to parse XML: %w", err)
 	}
 
-	defer res.Body.Close()
+	var stations StationSlice
 
-	var region Region
-
-	if err := xml.NewDecoder(res.Body).Decode(&region); err != nil {
-		return nil, fmt.Errorf("radiko: failed to parse full.xml: %w", err)
-	}
-
-	var stations StationList
-
-	for i := range region.Stations {
-		for j := range region.Stations[i].Station {
-			stations = append(stations, region.Stations[i].Station[j])
+	for i := range v.Stations {
+		for j := range v.Stations[i].Station {
+			stations = append(stations, v.Stations[i].Station[j])
 		}
 	}
 

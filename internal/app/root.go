@@ -1,9 +1,6 @@
 package app
 
 import (
-	"math/rand"
-	"time"
-
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )
@@ -29,8 +26,6 @@ func rootPersistentPreRunE(cmd *cobra.Command, args []string) error {
 }
 
 func init() {
-	rand.Seed(time.Now().Unix())
-
 	RootCommand.PersistentFlags().BoolP("debug", "d", false, "enable debug output")
 	RootCommand.PersistentFlags().StringP("config", "c", "", "path to configuration file")
 }
