@@ -3,13 +3,13 @@ package main
 import (
 	"os"
 
-	"github.com/moutend/go-radiko/internal/app"
+	"github.com/moutend/go-radiko/internal/cli"
 )
 
 func main() {
-	app.RootCommand.SetOutput(os.Stdout)
+	cli.RootCommand.SetOutput(os.Stdout)
 
-	if err := app.RootCommand.Execute(); err != nil {
+	if err := cli.RootCommand.Execute(); err != nil {
 		os.Exit(-1)
 	}
 }
